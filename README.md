@@ -13,3 +13,6 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yuanzhoulvpi2017&repo=zero_nlp)](https://github.com/yuanzhoulvpi2017/zero_nlp)
 
+- 基于Transformers模型、numpy、pandas、fastapi等包、纯python实现的具有增删查改功能的问答机器人后台
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yuanzhoulvpi2017&repo=questionAnswerSystem)](https://github.com/yuanzhoulvpi2017/questionAnswerSystem)
