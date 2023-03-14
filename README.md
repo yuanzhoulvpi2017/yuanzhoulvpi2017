@@ -8,6 +8,8 @@
 - 尝试使用rust做了几个小小的项目
 - 使用python做了关于数据分析的若干教程
 
+### 项目介绍
+- 关于Transfromers包的源码解读；关于bert、clip、gpt2等大模型训练、图解；
 
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yuanzhoulvpi2017&repo=zero_nlp)](https://github.com/yuanzhoulvpi2017/zero_nlp)
 
