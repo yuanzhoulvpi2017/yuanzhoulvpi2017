@@ -1,5 +1,4 @@
 <!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=yuanzhoulvpi2017&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" /> -->
-![yuanzhoulvpi2017's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuanzhoulvpi2017&show_icons=true&theme=chartreuse-dark)
 
 
 ### Hi there 👋
@@ -19,5 +18,6 @@
 - 🗺️ 中国地图的Python数据包🔗[https://github.com/yuanzhoulvpi2017/chinamap](https://github.com/yuanzhoulvpi2017/chinamap)
 - ⏳ 时间序列🔗[https://github.com/yuanzhoulvpi2017/TimeSeries](https://github.com/yuanzhoulvpi2017/TimeSeries)
 
+![yuanzhoulvpi2017's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuanzhoulvpi2017&show_icons=true&theme=chartreuse-dark)
 
 
