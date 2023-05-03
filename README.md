@@ -3,7 +3,7 @@
 
 ### Hi there 👋
 
-- 🎯 目前主要聚焦于nlp领域：Transformers包的源码解读和分享、文本相似度、多模态等
+- 🎯 目前主要聚焦于nlp领域，Transformers包的源码解读和分享、文本相似度、多模态、大模型（llama、gpt等）
 - 🚀 尝试使用rust基于bert做了文本向量化任务
 - 📝 使用python做了关于数据分析的若干教程
 
