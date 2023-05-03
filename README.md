@@ -18,6 +18,6 @@
 - 🗺️ 中国地图的Python数据包🔗[https://github.com/yuanzhoulvpi2017/chinamap](https://github.com/yuanzhoulvpi2017/chinamap)
 - ⏳ 时间序列🔗[https://github.com/yuanzhoulvpi2017/TimeSeries](https://github.com/yuanzhoulvpi2017/TimeSeries)
 
-![yuanzhoulvpi2017's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuanzhoulvpi2017&show_icons=true&theme=solarized-dark)
+![yuanzhoulvpi2017's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuanzhoulvpi2017&show_icons=true&theme=chartreuse-dark)
 
 
