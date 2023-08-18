@@ -3,9 +3,7 @@
 
 ### Hi there 👋
 
-- 🎯 目前主要聚焦于nlp领域，Transformers包的源码解读和分享、文本相似度、多模态、大模型（llama、gpt等）
-- 🚀 尝试使用rust基于bert做了文本向量化任务
-- 📝 使用python做了关于数据分析的若干教程
+- 🎯 喜欢python、transformers、nlp、pytorch
 
 ### 项目介绍
 - 🤗 关于Transfromers包的源码解读；关于bert、clip、gpt2、chatglm、dolly、gpt-neox等大模型训练、图解🔗[https://github.com/yuanzhoulvpi2017/zero_nlp](https://github.com/yuanzhoulvpi2017/zero_nlp)
